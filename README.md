@@ -1,4 +1,4 @@
-# Data-Science-Resoruces
+# Data-Science-Educational-Resoruces
 
 Data science resources that cover all the data sciene theoretical and practical skills.
 
