@@ -2,6 +2,10 @@
 
 Data science resources that cover all the data sciene theoretical and practical skills.
 
+## 1. Problem Statment Defining  Bussines Questions ##
+* [Top 12 Business for Data Science Books for Data Scientists](https://medium.com/geekculture/top-12-bussines-for-data-science-books-for-data-scientists-75b724f46224?sk=000dd2df54a84fb7cefe431320dbb1e1)
+
+
 * [5 Best Books To Learn Statistics And Probability For Data Scientists](https://medium.com/geekculture/5-best-books-to-learn-statistics-and-probability-for-data-scientists-85144cd81f82?sk=677e77c756f00b24caaf6c8b84cf842f)
 * [Top 12 Practical Data Science Books](https://medium.com/geekculture/top-12-practical-data-science-books-69fab1d66f9a?sk=33427d26205322024f907bc90d493392)
 * [5 Short Courses to Advance Your SQL Skills](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-5-8b4ca987417f?sk=32d672b1e4155bf1be3b8b36032d8d08)
@@ -11,7 +15,6 @@ Data science resources that cover all the data sciene theoretical and practical 
 * [Five Courses to Master Data Cleaning & Feature Engineering](https://medium.com/geekculture/five-courses-to-master-data-cleaning-feature-engineering-b3ac8f86800a?sk=09935097209cead86c3cab1c78770d09)
 * [5 Top Data Cleaning and Feature Engineering Books For Data Scientists](https://medium.com/geekculture/5-top-data-cleaning-and-feature-engineering-books-for-data-scientists-83d36baf80ca?sk=b39f88a0cb40dfd545b6e9df0dfa1d86)
 
-* [Top 12 Business for Data Science Books for Data Scientists](https://medium.com/geekculture/top-12-bussines-for-data-science-books-for-data-scientists-75b724f46224?sk=000dd2df54a84fb7cefe431320dbb1e1)
 * [5 Top Practical Computer Vision Books](https://medium.com/geekculture/5-top-practical-computer-vision-books-e501c0c8007?sk=a1c4a651b4da28d87ff13d4aba555cb0)
 * [10 Top MlOps Books for Data Scientists](https://medium.com/geekculture/10-top-mlops-books-for-data-scientists-9b8bb222fd2c?sk=e55c3a93972ddd9905f669e7401491d4)
 * [The Best Book To Build A Strong Machine Learning Foundation](https://medium.com/mlearning-ai/the-best-book-to-build-a-strong-machine-learning-foundation-ac6bbd7f7afd?sk=01b3de8f7823276ef89d4327e2468931)
