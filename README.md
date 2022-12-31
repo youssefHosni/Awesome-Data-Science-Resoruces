@@ -46,6 +46,5 @@ Data science resources that cover all the data sciene theoretical and practical 
 * [5 Short Practical Data Science Courses](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-1-2f2c4fe2e17a?sk=31b6da7f0721b1a79d3a8f10f472abab)
 
 ## 10. Data Ethics & Literacy ##
-
 * [5 Short Courses to Learn Data Ethics & Literacy](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-6-f699cbd01f16?sk=f2a806bd14337e7b71409347b4a634b0)
 
