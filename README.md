@@ -32,10 +32,6 @@ Data science resources that cover all the data sciene theoretical and practical 
 * [Learn Computer Vision From Top Universities](https://medium.com/mlearning-ai/learn-computer-vision-from-top-universities-bb6019be74d2?sk=81c21fb4024bb933e01c24b000660dc0)
 
 
-### 5.3. Natural language Processing ###
-
-## 6. Data Storytelling ##
-
 ## 7. Model Deployment ## 
 * [5 Short Courses Master Deploying Models Into Production](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-7-436ab0cad5?sk=f770e8ed6baa4c4a58bbef7c8abda3e0)
 * [10 Top MlOps Books for Data Scientists](https://medium.com/geekculture/10-top-mlops-books-for-data-scientists-9b8bb222fd2c?sk=e55c3a93972ddd9905f669e7401491d4)
