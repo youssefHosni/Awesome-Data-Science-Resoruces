@@ -1,6 +1,6 @@
 # Data-Science-Educational-Resoruces
 
-Data science resources that cover all the data sciene theoretical and practical skills.
+Data science resources that cover all the data science theoretical and practical skills.
 
 ## 1. Problem Statment Defining  Bussines Questions ##
 * [Top 12 Business for Data Science Books for Data Scientists](https://medium.com/geekculture/top-12-bussines-for-data-science-books-for-data-scientists-75b724f46224?sk=000dd2df54a84fb7cefe431320dbb1e1)
