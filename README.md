@@ -20,6 +20,7 @@ Data science resources that cover all the data science theoretical and practical
 ## 5. Modeling ##
 * [Learn AI from Top Universities Through these 10 Courses](https://pub.towardsai.net/learn-ai-from-top-universities-through-these-10-courses-13e7a8d3957b?sk=5049a7e5344b2281fb115001fa632f1c)
 * [6 Best Books to Learn Mathematics for Data Science & Machine Learning](https://medium.com/geekculture/6-best-books-to-learn-mathematics-for-data-science-machine-learning-a3924497cf66?sk=7cdc2a3f2346d48e75403fb9a29e1a74)
+* [6 Top University Courses to Learn Mathematics for Machine Learning & Data Science](https://medium.com/geekculture/6-top-university-courses-to-learn-mathematics-for-machine-learning-data-science-869fbd43f7e?sk=ed4f2afd89766644ae16a66953f948da)
 
 ### 5.1. Machine & Deep Learning ##  
 
