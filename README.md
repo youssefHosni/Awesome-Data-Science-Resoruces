@@ -38,6 +38,7 @@ Data science resources that cover all the data science theoretical and practical
 * [5 Short Courses Master Deploying Models Into Production](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-7-436ab0cad5?sk=f770e8ed6baa4c4a58bbef7c8abda3e0)
 * [10 Top MlOps Books for Data Scientists](https://medium.com/geekculture/10-top-mlops-books-for-data-scientists-9b8bb222fd2c?sk=e55c3a93972ddd9905f669e7401491d4)
 * [This Book Will Learn You To Scale Deep Learning Models](https://medium.com/mlearning-ai/learn-how-to-scale-your-deep-learning-model-through-this-book-42608852f9fa?sk=983b85db0321c2cbc500a9ea11d9e693)
+* [Ultimate MLOps Learning Roadmap with Free Learning Resources In 2023](https://pub.towardsai.net/ultimate-mlops-learning-roadmap-with-free-learning-resources-in-2023-3ba7664cb1e9?sk=d22f3f812c6fbffa878ea5cd6bc3990b) 
 
 ## 8. Software Engineering for Data Scientist ##
 * [5 Short Courses to Learn Scripting For Data Science](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-3-8dca8c7d5de8?sk=bd04821d01afbcb030e36d41d9f03ba2)
