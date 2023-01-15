@@ -41,9 +41,10 @@ Data science resources that cover all the data science theoretical and practical
 * [Ultimate MLOps Learning Roadmap with Free Learning Resources In 2023](https://pub.towardsai.net/ultimate-mlops-learning-roadmap-with-free-learning-resources-in-2023-3ba7664cb1e9?sk=d22f3f812c6fbffa878ea5cd6bc3990b) 
 
 ## 8. Software Engineering for Data Scientist ##
+* [Software Engineering Roadmap For Data Scientists]()
+* [Ultimate Free Python For Data Science Roadmap In 2023]()
 * [5 Short Courses to Learn Scripting For Data Science](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-3-8dca8c7d5de8?sk=bd04821d01afbcb030e36d41d9f03ba2)
 * [5 Short Courses to Learn Software Engineering Skills for Data Scientists](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-2-6e54cd4645ca?sk=57a729274a8f894a7fbe6ad82dd46e90)
-* [Software Engineering Roadmap For Data Scientists]()
 
 ## 9. Practical Data Science Skills ## 
 * [Top 12 Practical Data Science Books](https://medium.com/geekculture/top-12-practical-data-science-books-69fab1d66f9a?sk=33427d26205322024f907bc90d493392)
