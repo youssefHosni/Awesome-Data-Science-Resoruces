@@ -43,6 +43,7 @@ Data science resources that cover all the data science theoretical and practical
 ## 8. Software Engineering for Data Scientist ##
 * [5 Short Courses to Learn Scripting For Data Science](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-3-8dca8c7d5de8?sk=bd04821d01afbcb030e36d41d9f03ba2)
 * [5 Short Courses to Learn Software Engineering Skills for Data Scientists](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-2-6e54cd4645ca?sk=57a729274a8f894a7fbe6ad82dd46e90)
+* [Software Engineering Roadmap For Data Scientists]()
 
 ## 9. Practical Data Science Skills ## 
 * [Top 12 Practical Data Science Books](https://medium.com/geekculture/top-12-practical-data-science-books-69fab1d66f9a?sk=33427d26205322024f907bc90d493392)
