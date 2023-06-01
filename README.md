@@ -7,6 +7,7 @@ Data science resources that cover all the data science theoretical and practical
 
 ## 2. Data Collection ##
 * [5 Short Courses to Advance Your SQL Skills](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-5-8b4ca987417f?sk=32d672b1e4155bf1be3b8b36032d8d08)
+* [SQL Mastery for Data Scientists: A Comprehensive Guide from Novice to Advanced](https://levelup.gitconnected.com/sql-mastery-for-data-scientists-a-comprehensive-guide-from-novice-to-advanced-3b9305b03210?sk=4569f6e829186ba31ce80b072f20f224)
 
 ## 3. Data Cleaning & Manipulation ## 
 * [Five Courses to Master Data Cleaning & Feature Engineering](https://medium.com/geekculture/five-courses-to-master-data-cleaning-feature-engineering-b3ac8f86800a?sk=09935097209cead86c3cab1c78770d09)
@@ -42,7 +43,7 @@ Data science resources that cover all the data science theoretical and practical
 * [This Book Will Learn You To Scale Deep Learning Models](https://medium.com/mlearning-ai/learn-how-to-scale-your-deep-learning-model-through-this-book-42608852f9fa?sk=983b85db0321c2cbc500a9ea11d9e693)
 * [Ultimate MLOps Learning Roadmap with Free Learning Resources In 2023](https://pub.towardsai.net/ultimate-mlops-learning-roadmap-with-free-learning-resources-in-2023-3ba7664cb1e9?sk=d22f3f812c6fbffa878ea5cd6bc3990b) 
 * [5 Top Machine Learning System Design Books for Data Scientists & Machine Learning Engineers](https://medium.com/geekculture/5-top-machine-learning-system-design-books-for-data-scientists-machine-learning-engineers-cedc3b43abf8?sk=40c7d0c6cbe6ccc479a2f5ce3c844091)
-* [7 Top Courses & Books to Learn Dockers & Kubernetes for Data Scientists]()
+* [7 Top Courses & Books to Learn Dockers & Kubernetes for Data Scientists](https://medium.com/geekculture/7-top-courses-books-to-learn-dockers-kubernetes-for-data-scientists-a3ae17515e0c?sk=cf90664e65d9a7d0fa16caf5e3525b6b)
 
 ## 7. Software Engineering for Data Scientist ##
 * [Software Engineering Roadmap For Data Scientists]()
