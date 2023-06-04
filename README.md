@@ -35,7 +35,7 @@ Data science resources that cover all the data science theoretical and practical
 * [Learn Computer Vision From Top Universities](https://medium.com/mlearning-ai/learn-computer-vision-from-top-universities-bb6019be74d2?sk=81c21fb4024bb933e01c24b000660dc0)
 
 ### 5.3. Natural Language Processing ### 
-*[Top Resoruces to Learn & Understand Large Language Models](https://medium.com/geekculture/top-resoruces-to-learn-understand-large-language-models-4d339f7b685d?sk=282b454d11695c0ea6751f743ade319d)
+* [Top Resoruces to Learn & Understand Large Language Models](https://medium.com/geekculture/top-resoruces-to-learn-understand-large-language-models-4d339f7b685d?sk=282b454d11695c0ea6751f743ade319d)
 
 ## 6. Model Deployment ## 
 * [5 Short Courses Master Deploying Models Into Production](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-7-436ab0cad5?sk=f770e8ed6baa4c4a58bbef7c8abda3e0)
