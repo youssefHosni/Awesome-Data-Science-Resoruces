@@ -12,8 +12,6 @@ Curated list of Data science resources that cover all the data science theoretic
 [![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Awesome-Data-Science-Resoruces.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Awesome-Data-Science-Resoruces/network/)
 [![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Awesome-Data-Science-Resoruces.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Awesome-Data-Science-Resoruces/stargazers/)
 
-![alt text](https://github.com/youssefHosni/Awesome-Data-Science-Resoruces/blob/main/images/Awosme%20ML%20GitHub%20Repos.png)
-
 ## 1. Problem Statment Defining  Bussines Questions ##
 * [Top 12 Business for Data Science Books for Data Scientists](https://medium.com/geekculture/top-12-bussines-for-data-science-books-for-data-scientists-75b724f46224?sk=000dd2df54a84fb7cefe431320dbb1e1)
 
