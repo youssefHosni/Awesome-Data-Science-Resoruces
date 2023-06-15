@@ -1,6 +1,18 @@
-# Data-Science-Educational-Resoruces
+# Awesome-Data-Science-Resoruces #  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Data science resources that cover all the data science theoretical and practical skills.
+Curated list of Data science resources that cover all the data science theoretical and practical skills.
+
+[![GitHub license](https://img.shields.io/github/license/youssefHosni/Awesome-ML-GitHub-Repos.svg)](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/youssefHosni/Awesome-ML-GitHub-Repos.svg)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/youssefHosni/Awesome-ML-GitHub-Repos.svg)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/youssefHosni/Awesome-ML-GitHub-Repos.svg)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/pulls/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+[![GitHub watchers](https://img.shields.io/github/watchers/youssefHosni/Awesome-ML-GitHub-Repos.svg?style=social&label=Watch)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Awesome-ML-GitHub-Repos.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/network/)
+[![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Awesome-ML-GitHub-Repos.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/stargazers/)
+
+![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Awosme%20ML%20GitHub%20Repos.png)
 
 ## 1. Problem Statment Defining  Bussines Questions ##
 * [Top 12 Business for Data Science Books for Data Scientists](https://medium.com/geekculture/top-12-bussines-for-data-science-books-for-data-scientists-75b724f46224?sk=000dd2df54a84fb7cefe431320dbb1e1)
