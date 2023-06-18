@@ -47,6 +47,7 @@ Curated list of Data science resources that cover all the data science theoretic
 
 ### 5.3. Natural Language Processing ### 
 * [Top Resoruces to Learn & Understand Large Language Models](https://medium.com/geekculture/top-resoruces-to-learn-understand-large-language-models-4d339f7b685d?sk=282b454d11695c0ea6751f743ade319d)
+* [From Novice to Expert: A Comprehensive Step-by-Step Study Plan for Mastering LLMs](https://pub.towardsai.net/from-novice-to-expert-a-comprehensive-step-by-step-study-plan-for-mastering-llms-dc9feb60ecc4?sk=26b9ecdd113ce144fe9596eddedfa2c1)
 
 ## 6. Model Deployment ## 
 * [5 Short Courses Master Deploying Models Into Production](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-7-436ab0cad5?sk=f770e8ed6baa4c4a58bbef7c8abda3e0)
