@@ -25,9 +25,9 @@ A curated list of Data science resources that cover all the data science theoret
 * [5 Top Data Cleaning and Feature Engineering Books For Data Scientists](https://medium.com/geekculture/5-top-data-cleaning-and-feature-engineering-books-for-data-scientists-83d36baf80ca?sk=b39f88a0cb40dfd545b6e9df0dfa1d86)
 * [5 Short Courses to Advance Your Pandas Skills](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-4-86e1fb916767?sk=76b29d3caca41d4490084a9cacac1e0d)
 
-## 4. Data Exploration ##
+## 4. Data Exploration & Stats ##
 * [5 Best Books To Learn Statistics And Probability For Data Scientists](https://medium.com/geekculture/5-best-books-to-learn-statistics-and-probability-for-data-scientists-85144cd81f82?sk=677e77c756f00b24caaf6c8b84cf842f)
-
+* [A/B Testing Study Plan: From Novice to Upper Intermediate Level](https://levelup.gitconnected.com/a-b-testing-study-plan-from-novice-to-upper-intermediate-level-a96bf4055e22?sk=931262519d4b3b3b19a92aede8191ff4)
 
 ## 5. Modeling ##
 * [Learn AI from Top Universities Through these 10 Courses](https://pub.towardsai.net/learn-ai-from-top-universities-through-these-10-courses-13e7a8d3957b?sk=5049a7e5344b2281fb115001fa632f1c)
