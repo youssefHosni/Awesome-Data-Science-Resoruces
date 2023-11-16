@@ -62,8 +62,9 @@ A curated list of Data science resources that cover all the data science theoret
 * [7 Top Courses & Books to Learn Dockers & Kubernetes for Data Scientists](https://medium.com/geekculture/7-top-courses-books-to-learn-dockers-kubernetes-for-data-scientists-a3ae17515e0c?sk=cf90664e65d9a7d0fa16caf5e3525b6b)
 
 ## 7. Software Engineering for Data Scientist ##
-* [Software Engineering Roadmap For Data Scientists]()
-* [Ultimate Free Python For Data Science Roadmap In 2023]()
+* [Software Engineering Roadmap For Data Scientists](https://levelup.gitconnected.com/software-engineering-roadmap-for-data-scientists-1b0fd154de51?sk=d4e9dbb2ad9949a5f7d4bfac558ce2ef)
+* [Ultimate Free Python For Data Science Roadmap In 2023](https://levelup.gitconnected.com/ultimate-free-python-for-data-science-roadmap-in-2023-728daa9581de?sk=cb99b0bae60f34d4d3a6160053fae087)
+* [6 Top Books to Learn Python & Programming for Data Science](https://levelup.gitconnected.com/6-top-books-to-learn-python-programming-for-data-science-afba3a7f352c?sk=03b3935e0d241e2960f5cc7d9c1f02cb)
 * [5 Short Courses to Learn Scripting For Data Science](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-3-8dca8c7d5de8?sk=bd04821d01afbcb030e36d41d9f03ba2)
 * [5 Short Courses to Learn Software Engineering Skills for Data Scientists](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-2-6e54cd4645ca?sk=57a729274a8f894a7fbe6ad82dd46e90)
 
