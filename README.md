@@ -51,7 +51,9 @@ A curated list of Data science resources that cover all the data science theoret
 * [From Novice to Expert: A Comprehensive Step-by-Step Study Plan for Mastering LLMs](https://pub.towardsai.net/from-novice-to-expert-a-comprehensive-step-by-step-study-plan-for-mastering-llms-dc9feb60ecc4?sk=26b9ecdd113ce144fe9596eddedfa2c1)
 
 ### 5.4. Time Series Data Analysis ###
-* [10 Top Time Series Courses to Proficient This Important Data Science Skills]()
+* [10 Top Time Series Courses to Proficient This Important Data Science Skills](https://pub.towardsai.net/10-top-time-series-courses-to-proficient-this-important-data-science-skills-565212d29a0?sk=8210dcce7c3cd3d6aa61b9a1d2ee6b96)
+* [Level Up Your Time Series Analysis Skills with These 5 Books](https://medium.com/geekculture/level-up-your-time-series-analysis-skills-with-these-5-books-53d49b0c3ab3?sk=e39c5e934a25ff0e19f60ccaa24b2473)
+* [13 Guided Time Series Projects to Build Your Portfolio](https://pub.towardsai.net/10-top-time-series-courses-to-proficient-this-important-data-science-skills-565212d29a0?sk=8210dcce7c3cd3d6aa61b9a1d2ee6b96)
 
 ## 6. Model Deployment ## 
 * [5 Short Courses Master Deploying Models Into Production](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-7-436ab0cad5?sk=f770e8ed6baa4c4a58bbef7c8abda3e0)
